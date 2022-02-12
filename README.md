@@ -12,7 +12,7 @@
 
 - 💬 Ask me about  **"IoT"**
 
-- 📫 How to reach me **dwarakanathvarunkumar@gmail.com** or 
+- 📫 How to reach me **dwarakanathvarunkumar@gmail.com**
 
 <!--### Blogs posts
 <!-- BLOG-POST-LIST:START -->
