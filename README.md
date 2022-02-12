@@ -7,7 +7,7 @@ hi, i'm [Dwarakanath Varunkumar A](http://dwaraka.tech/), a passionate self-taug
 I am a Product Design Engineer, Have Successfully creaded various NPD (tangable and non tangale Products)
 i am also an open-source enthusiast . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/dwarakanathvarunkumar/dwarakanathvarunkumar/blob/main/code.gif?raw=true" width="330" height="320" />
+<img align="right" alt="GIF" src="https://github.com/dwarakanathvarunkumar/dwarakanathvarunkumar/blob/main/code.gif?raw=true" width="300" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwarakanathvarunkumar&label=Profile%20views&color=0e75b6&style=flat" alt="dwarakanathvarunkumar" /> </p>
 
