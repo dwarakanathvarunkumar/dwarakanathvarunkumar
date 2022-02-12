@@ -12,7 +12,7 @@
 - 💬 Ask me about **IoT**
 
 - 📫 How to reach me **dwarakanathvarunkumar@gmail.com**
-
+<img align="right" alt="GIF" src="https://github.com/dwarakanathvarunkumar/dwarakanathvarunkumar/blob/main/code.gif?raw=true" width="500" height="320" />
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
